@@ -1,6 +1,6 @@
 # PBI_sales_cost_profit_mMargin_and_KPI_dashboard
  
- This project aims to analyze sales data.
+ This project aims to analyze sales data. This project was developed in a Data Science Academy course: https://www.datascienceacademy.com.br
 
 The purpose of this project is to extract information about sales, cost, profit margin and KPI data. The questions below must be answered:
 
